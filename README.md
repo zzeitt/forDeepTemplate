@@ -13,22 +13,23 @@ One template is sufficient.
 
 ## Folder Structure
 Basically, a deep-learning project looks like this.
-```
-.
-└── [PROJECT_ROOT]/
-    ├── assets/
-    │   └── [assets work for the project]
-    ├── docs/
-    │   └── [documents for illustration]
-    ├── env/
-    │   └── [portable `conda` environment]
-    ├── gui/
-    │   └── [GUI is good]
-    ├── models/
-    │   └── [put networks here]
-    └── scripts/
-        └── [put utils here]
-```
+
+- *assets*/
+    - assets work for the project
+- *docs*/
+    - documents for illustration
+- *env*/
+    - portable conda environment
+- *gui*/
+    - having some GUIs is good
+- *models*/
+    - put networks here
+- *scripts*/
+    - put utils here
+- `README.md`
+- `.gitignore`
+
+
 
 ## Miscellaneous
 Keep updating...
