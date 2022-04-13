@@ -16,6 +16,9 @@ Basically, a deep-learning project looks like this.
 
 - *assets*/
     - assets work for the project
+- *bin/*
+    - *debug/*
+    - `train.py`
 - *docs*/
     - documents for illustration
 - *env*/
@@ -25,7 +28,10 @@ Basically, a deep-learning project looks like this.
 - *models*/
     - put networks here
 - *scripts*/
-    - put utils here
+    - *evaluation/*
+        - for evaluation
+    - *training/*
+        - for training
 - `README.md`
 - `.gitignore`
 
