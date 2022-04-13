@@ -2,10 +2,10 @@
 Put the networks here.
 
 For each model, structure it as this.
-- *assets*
+- *assets*/
     - necessory assets
-- *checkpoints*
+- *checkpoints*/
     - network's checkpoints
-- *configs*
+- *configs*/
     - configuration
 - `README.md`
