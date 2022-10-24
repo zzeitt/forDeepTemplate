@@ -12,13 +12,16 @@ One template is sufficient.
 
 
 ## Folder Structure
-Basically, a deep-learning project looks like this.
+<details>
+    <summary>Basically, a deep-learning project looks like this.</summary>
 
 - *assets*/
     - assets work for the project
 - *bin*/
     - *debug*/
     - `train.py`
+- *configs*/
+    - configuration files
 - *docs*/
     - documents for illustration
 - *env*/
@@ -34,6 +37,7 @@ Basically, a deep-learning project looks like this.
         - for training
 - `README.md`
 - `.gitignore`
+</details>
 
 
 
