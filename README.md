@@ -29,13 +29,16 @@ One template is sufficient.
     - portable conda environment
 - *gui*/
     - having some GUIs is good
+- *misc*/
+    - miscellaneous stuff
 - *models*/
-    - put networks here
+    - network models
 - *scripts*/
-    - *data*/
-        - for data process
-    - *misc*/
-        - for miscellaneous
+    - *base*/
+        - `checkpoint.py`
+        - `data.py`
+        - `recorder.py`
+        - `train.py`
     - *train*/
         - for training
     - *utils*/
